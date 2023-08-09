@@ -13,7 +13,7 @@ img {
 }
 .nav {
   overflow: hidden;
-  background-color: rgb(196 167 244);
+  background-color: #9ac5f4;
 }
 .nav h2 {
   font-size: 3rem;
@@ -89,7 +89,7 @@ a:hover {
 #social-issue {
   padding: 1rem 2.5rem;
   /* width: 50%; */
-  background: #efed4f;
+  background: #a7ecee;
 }
 
 .accordion {
@@ -111,7 +111,7 @@ a:hover {
   /* margin: 3px; */
   width: 100%;
   height: 100vh;
-  background: #efed4f;
+  background: #ffeebb;
   display: flex;
   flex-direction: column;
   border-top: 2px solid black;
@@ -144,7 +144,7 @@ a:hover {
   /* width: 50%; */
   /* margin: 3px; */
   padding-top: 20px;
-  background-color: #efed4f;
+  background-color: #ffeebb;
   color: #000000;
   font-family: "Zeyada", cursive;
   font-size: 16px;
@@ -198,7 +198,7 @@ textarea {
 #faq {
   width: 100%;
   height: 60vh;
-  background: teal;
+  background: #99dbf5;
   padding: 50px;
 }
 #faq h2 {
